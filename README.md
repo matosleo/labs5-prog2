@@ -19,4 +19,4 @@ $ ./bin/prog2
 ```
 
 ## Dificuldades
-1. Em desenvolvimento
+1. Exibir os elementos sem o separador depois do ultimo elemento
